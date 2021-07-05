@@ -1,2 +1,2 @@
 # Personal-Project
-个人博客小项目
+个人博客项目
