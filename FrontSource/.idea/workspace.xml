@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a10336b6-9e11-47d6-a0dd-0e212f15ee49" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/public/admin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Article-Detail.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Global-Article.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Global-Comment.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Global-Editor.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/config.default.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/admin/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/admin/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/admin/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/admin/views/DBA.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/admin/views/DBManager.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/admin/views/Permission.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/admin/views/Review.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/admin/views/TipOff.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/login/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/login/assets/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/login/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/login/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/user/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/user/components/Community.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/user/components/MyAttentions.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/user/components/MyBlacklist.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/user/components/MyBlog.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/user/components/MyComment.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/user/components/MyLikeBlog.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/user/components/UserInfo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/user/components/UserSetting.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/user/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/user/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/user/views/Article-Edit.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/user/views/BlogList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/user/views/Chathome.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/user/views/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/user/views/userAvatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/AuthorService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/BlogService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/ImgFileService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/TipOffService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/UserDetailService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/config/axios.default.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kjwXLzGzdsLINEPHhIdp6EzSaH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="新增" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pages/user/components" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.1.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\natur\Desktop\sifou\src\components" />
+      <recent name="C:\Users\natur\Desktop\sifou\src\pages\user\views" />
+      <recent name="C:\Users\natur\Desktop\sifou\src\pages\user" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\natur\Desktop\sifou\src\pages\user\components" />
+      <recent name="C:\Users\natur\Desktop\sifou\src\pages\login" />
+      <recent name="C:\Users\natur\Desktop\sifou\src\pages\user\assets" />
+      <recent name="C:\Users\natur\Desktop\sifou\src\assets" />
+      <recent name="C:\Users\natur\Desktop\sifou\src\pages\admin" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/sifou/site/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript 调试.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a10336b6-9e11-47d6-a0dd-0e212f15ee49" name="默认的" comment="" />
+      <created>1606227347980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606227347980</updated>
+      <workItem from="1606227349040" duration="1777000" />
+      <workItem from="1606393864855" duration="9351000" />
+      <workItem from="1606479941713" duration="8767000" />
+      <workItem from="1606825593497" duration="7965000" />
+      <workItem from="1606912102492" duration="439000" />
+      <workItem from="1606912567744" duration="6389000" />
+      <workItem from="1606998480546" duration="7975000" />
+      <workItem from="1607085059013" duration="7879000" />
+      <workItem from="1607171118650" duration="7356000" />
+      <workItem from="1607430680432" duration="7172000" />
+      <workItem from="1607603352970" duration="7923000" />
+      <workItem from="1607776294899" duration="6667000" />
+      <workItem from="1607862674116" duration="5326000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="460" y="165" width="1000" height="750" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog" timestamp="1607863334029">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="460" y="165" width="1000" height="750" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog/1920.0.1920.1080/0.0.1920.1080/-1080.-356.1080.1920@0.0.1920.1080" timestamp="1607863334029" />
+    <state x="654" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606394192283">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="654" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1080/-1080.-356.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1606394192283" />
+    <state width="1894" height="272" key="GridCell.Tab.0.bottom" timestamp="1607866638898">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1894" height="272" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1080/-1080.-356.1080.1920@0.0.1920.1080" timestamp="1607866638898" />
+    <state width="1894" height="272" key="GridCell.Tab.0.center" timestamp="1607866638898">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1894" height="272" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1080/-1080.-356.1080.1920@0.0.1920.1080" timestamp="1607866638898" />
+    <state width="1894" height="272" key="GridCell.Tab.0.left" timestamp="1607866638898">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1894" height="272" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1080/-1080.-356.1080.1920@0.0.1920.1080" timestamp="1607866638898" />
+    <state width="1894" height="272" key="GridCell.Tab.0.right" timestamp="1607866638898">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1894" height="272" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1080/-1080.-356.1080.1920@0.0.1920.1080" timestamp="1607866638898" />
+    <state x="358" y="89" key="SettingsEditor" timestamp="1606827504568">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="358" y="89" key="SettingsEditor/1920.0.1920.1080/-1080.-356.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1606827504568" />
+    <state x="539" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1607604161796">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="539" y="45" width="840" height="1034" key="search.everywhere.popup/1920.0.1920.1080/-1080.-356.1080.1920/0.0.1920.1080@0.0.1920.1080" timestamp="1606999286065" />
+    <state x="539" y="45" width="840" height="1034" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1080/-1080.-356.1080.1920@0.0.1920.1080" timestamp="1607604161796" />
+  </component>
+</project>
